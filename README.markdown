@@ -15,8 +15,8 @@ My %appdata% folder is
 
 
 `mkdir %appdata%\Sublime Text 2\Packages\SAS`
-`cd C:\Users\jhu\AppData\Roaming\Sublime Text 2\Packages\SAS`  
-`git clone git://github.com/jiangtang/sas.tmbundle SAS.tmbundle`  
+`cd C:\Users\jhu\AppData\Roaming\Sublime Text 2\Packages\SAS` 
+`git clone git://github.com/jiangtang/sas.tmbundle SAS.tmbundle`
 
 Or, just copy all the files under
 
