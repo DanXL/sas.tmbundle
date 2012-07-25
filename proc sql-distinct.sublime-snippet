@@ -1,0 +1,11 @@
+<snippet>
+	<description>sql-distinct</description>
+    <content><![CDATA[proc sql;
+    select  distinct ${0:/* variable(s) */}
+    from 
+	;
+quit;
+]]></content>
+    <tabTrigger>sq</tabTrigger>
+    <scope>source.sas</scope> 
+</snippet>

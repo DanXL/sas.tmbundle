@@ -1,0 +1,11 @@
+<snippet>
+	<description>sql</description>
+    <content><![CDATA[proc sql;
+    select  ${0:/* variable(s) */}
+    from 
+	;
+quit;
+]]></content>
+    <tabTrigger>s</tabTrigger>
+    <scope>source.sas</scope> 
+</snippet>

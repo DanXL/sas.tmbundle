@@ -1,0 +1,8 @@
+<snippet>
+	<description>macro options</description>
+    <content><![CDATA[options nomprint nomlogic nosymbolgen;
+
+]]></content>
+    <tabTrigger>mn</tabTrigger>
+    <scope>source.sas</scope> 
+</snippet>

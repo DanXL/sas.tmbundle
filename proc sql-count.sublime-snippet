@@ -1,0 +1,11 @@
+<snippet>
+	<description>sql-count</description>
+    <content><![CDATA[proc sql;
+    select  count(${0:/* variable(s) */}) 
+    from 
+	;
+quit;
+]]></content>
+    <tabTrigger>sql</tabTrigger>
+    <scope>source.sas</scope> 
+</snippet>

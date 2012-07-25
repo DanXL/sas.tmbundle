@@ -1,0 +1,11 @@
+<snippet>
+	<description>sql-count distinct</description>
+    <content><![CDATA[proc sql;
+    select  count(distinct ${0:/* variable(s) */}) 
+    from 
+	;
+quit;
+]]></content>
+    <tabTrigger>sqlc</tabTrigger>
+    <scope>source.sas</scope> 
+</snippet>
