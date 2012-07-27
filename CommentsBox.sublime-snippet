@@ -1,0 +1,32 @@
+<snippet>
+<content>
+<![CDATA[
+
+***********************************************************************
+*Program    Name    : $0                                                *
+*Programmer Name    : Jiangtang Hu                                    *
+*                     Jiangtanghu@gmail.com                           *
+*                     Jiangtanghu.com/blog                            *
+*                                                                     *
+*Purpose            :                                                 *
+*                                                                     *
+*Input              :                                                 *
+*Output             :                                                 *
+*Usage              :                                                 *
+*                                                                     *
+*References         :                                                 *
+*                                                                     *
+*                                                                     *
+*License            :                                                 *
+*Platform           :                                                 *
+*Version            :                                                 *
+*Date               :                                                 *
+***********************************************************************
+
+
+
+]]>
+
+</content>
+<tabTrigger>boxcomment</tabTrigger>
+</snippet>
