@@ -1,0 +1,4 @@
+{
+  "cmd": ["SAS","-sysin","$file"],
+    "selector": "source.sas"
+}
